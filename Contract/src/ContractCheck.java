@@ -23,6 +23,9 @@ public class ContractCheck {
 				}
 			else break;
 		}
+		for(int i = 0; i < Flist2.size(); i++){
+			if( FList[i].isfile() )
+		}
 	}
 }
 
